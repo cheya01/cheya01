@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chethiya Wanigarathne
 - 👀 I’m interested in Programming and Formula One
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently working on Node and JS
 - ⚡ Fun fact: Dead screed of flying insects lol
 
 <!---
